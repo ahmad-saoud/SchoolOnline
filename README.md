@@ -1,6 +1,7 @@
 # Online School Backend
 
-A Spring Boot backend service for an online school management system designed to teach bootcamp students.
+A Spring Boot backend service for an online school ma
+nagement system designed to teach bootcamp students.
 
 ## Features
 
@@ -72,3 +73,18 @@ src/
     └── java/com/bootcamp/onlineschool/
         └── OnlineSchoolApplicationTests.java
 ```
+
+## Git and GitHub Foundations Lab 
+
+This repository includes practice work for learning the Git and GitHub workflow, in a branch called feature/git-github-foundations
+
+## Skills Practices 
+
+- Creating and switching to a feature branch 
+- Updating `.gitignore`
+- Editing Markdown documentation 
+- Staging and committing changes
+- Pushing a branch to GitHub 
+- Opening and merging a pull request 
+
+
